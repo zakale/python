@@ -1,5 +1,2 @@
 # python
-Curso CS50,  python; plataforma de Harvad University.
-Iniciei esse curso para reciclar o meu conhecimento no tempo de formação em ciência da computação.
-A linguagem python ao utilizar, me fez lembrar das minhas primeira linhas de código em C, trazendo especialização e contrução de conhecimento, na minha formação tivi contato com python na disciplina inteligência artificial para elaborar um trabalho acadêmico, criamos uma estatisitca do senso no ENEM de 2019 da capital Brasília.
-gosto do código em linguagens estrutural em vez de bloco, mas com o tradutor VSCode tenho me aperfeiçoado na intepretação dos códigos.
+Curso CS50, Python; plataforma da Universidade de Harvard. Iniciei este curso para reavivar meu conhecimento adquirido durante minha formação em ciência da computação. A linguagem Python, ao ser utilizada, me fez lembrar das minhas primeiras linhas de código em C, proporcionando especialização e construção de conhecimento. Durante minha formação, tive contato com Python na disciplina de Inteligência Artificial para elaborar um trabalho acadêmico, onde criamos uma análise estatística dos resultados do ENEM de 2019 na capital Brasília. Prefiro o estilo de código em linguagens estruturadas em vez de blocos, mas com o auxílio do tradutor VSCode, tenho me aprimorado na interpretação dos códigos.
